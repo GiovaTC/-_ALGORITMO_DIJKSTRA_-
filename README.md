@@ -1,7 +1,9 @@
 # -_ALGORITMO_DIJKSTRA_- :.
 ✅ SOLUCIÓN PROPUESTA (ARQUITECTURA COMPLETA):
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/f2679c99-ba70-41fa-84d4-f1a262ab088f" />  
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/f2679c99-ba70-41fa-84d4-f1a262ab088f" />    
+
+<img width="2547" height="1072" alt="image" src="https://github.com/user-attachments/assets/59f42f49-37b6-4b7d-8244-b98e4ad35a38" />    
 
 ```
 

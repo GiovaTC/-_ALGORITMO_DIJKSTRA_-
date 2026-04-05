@@ -207,7 +207,7 @@ public class Controlador {
 }
 
 🚀 7. MAIN
-public class Main {
+public class Vista {
     public static void main(String[] args) {
         Vista vista = new Vista();
         GrafoDAO dao = new GrafoDAO();

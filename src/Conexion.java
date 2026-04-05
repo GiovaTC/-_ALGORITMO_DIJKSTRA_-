@@ -9,4 +9,4 @@ public class Conexion {
 
         return DriverManager.getConnection(url, user, pass);
     }
-}   
+}

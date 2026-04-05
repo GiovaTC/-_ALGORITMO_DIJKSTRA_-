@@ -19,4 +19,4 @@ public class Controlador {
         Map<Integer, Double> resultado = Dijkstra.calcular(aristas, 1);
         vista.mostrarResultados(resultado);
     }
-}   
+}

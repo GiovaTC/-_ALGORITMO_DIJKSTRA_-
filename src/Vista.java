@@ -33,4 +33,14 @@ public class Vista extends JFrame {
     public JButton getBtnCalcular() {
         return btnCalcular;
     }
+
+    // metodo main .
+    public static void main(String[] args) {
+        Vista vista = new Vista();
+        GrafoDAO dao = new GrafoDAO();
+
+        new Controlador(vista, dao);
+
+        vista.setVisible(true);
+    }
 }

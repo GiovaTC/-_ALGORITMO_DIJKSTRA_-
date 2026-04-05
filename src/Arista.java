@@ -8,4 +8,4 @@ public class Arista {
         this.destino = destino;
         this.distancia = distancia;
     }
-}   
+}
